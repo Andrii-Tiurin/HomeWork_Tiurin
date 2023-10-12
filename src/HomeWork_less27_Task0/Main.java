@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Общая площадь фигур: " + totalArea);
         System.out.println("Общий периметр фигур: " + totalPerimeter);
     }
+
 }
 
 
